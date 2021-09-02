@@ -1,0 +1,12 @@
+name: CustomModelBlock
+version: '${project.version}'
+main: id.sedona.cmb.CustomModelBlock
+api-version: 1.17
+authors: [ sedona1029 ]
+description: Custom Model Data for Block
+
+commands:
+  custommodelblock:
+    aliases: cmb
+    description: main command
+
